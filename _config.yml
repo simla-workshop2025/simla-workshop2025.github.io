@@ -7,7 +7,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "Melbourne"
+footer_url: "https://sulab-sever.u-aizu.ac.jp/ACNS2023/"
 footer_text: "SiMLA 2023 (Co-located with ACNS2023)"
 
 sass:
