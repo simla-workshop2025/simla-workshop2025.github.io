@@ -62,7 +62,7 @@ EasyChair System will be used for paper submission.
 
 ## Submission Link
 
-To be annouced.
+To be announced.
 
 
 ## BEST PAPER AWARD
@@ -84,11 +84,11 @@ There will be 1-2 invited speakers in the workshop.
 
 ## PROGRAM COMMITTEE
 
-To be annouced.
+To be announced.
 
 ## WEBSITE
 
-To be annouced. 
+To be announced. 
 
 ## CONTACT INFORMATION
 
