@@ -1,6 +1,6 @@
 title: Security in Machine Learning and its Applications (SiMLA 2023)
 url: "simla-workshop.github.io"
-baseurl: "https://sulab-sever.u-aizu.ac.jp/ACNS2023/"
+baseurl: ""
 
 markdown: kramdown
 # ins_logo: "images/simla-logo.png"
@@ -17,5 +17,5 @@ sass:
 
 nav:
  - name: "ACNS 2023"
-   link: "https://sulab-sever.u-aizu.ac.jp/ACNS2023/"
+   link: ""
 
