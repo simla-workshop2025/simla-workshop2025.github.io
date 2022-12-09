@@ -1,6 +1,6 @@
-title: Security in Machine Learning and its Applications (SiMLA 2022)
-url: ""
-baseurl: "/simla2022"
+title: Security in Machine Learning and its Applications (SiMLA 2023)
+url: "https://simla2023.github.io"
+baseurl: "/simla2023"
 
 markdown: kramdown
 # ins_logo: "images/simla-logo.png"
@@ -8,14 +8,14 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://sites.google.com/di.uniroma1.it/acns2022/"
-footer_text: "SiMLA 2022 (Co-located with ACNS2022)"
+footer_url: "https://sites.google.com/di.uniroma1.it/acns2023/"
+footer_text: "SiMLA 2023 (Co-located with ACNS2023)"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "ACNS 2022"
-   link: "https://sites.google.com/di.uniroma1.it/acns2022/"
+ - name: "ACNS 2023"
+   link: "https://sites.google.com/di.uniroma1.it/acns2023/"
 
