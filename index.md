@@ -1,7 +1,7 @@
 <!-- # Security in Machine Learning and its Applications (SiMLA 2022) -->
 
 <!-- <img class="profile-picture" src="sherlock.jpg"> -->
-<!-- ![](images/simla-logo.png =180x) -->
+<!-- ![](images/simla-logo.png =130x) -->
 <img src="images/simla-logo.png"/>
 
 ### Kyoto, Japan | 19-22 June, 2023
@@ -62,7 +62,7 @@ EasyChair System will be used for paper submission.
 
 ## Submission Link
 
-To be finalized.
+To be annouced.
 
 
 ## BEST PAPER AWARD
