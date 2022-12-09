@@ -1,6 +1,5 @@
 title: Security in Machine Learning and its Applications (SiMLA 2023)
 url: "simla-workshop.github.io"
-baseurl: ""
 
 markdown: kramdown
 # ins_logo: "images/simla-logo.png"
@@ -8,7 +7,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://sites.google.com/di.uniroma1.it/acns2023/"
+footer_url: "Melbourne"
 footer_text: "SiMLA 2023 (Co-located with ACNS2023)"
 
 sass:
