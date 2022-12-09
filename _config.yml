@@ -1,6 +1,6 @@
 title: Security in Machine Learning and its Applications (SiMLA 2023)
 url: "https://simla2023.github.io"
-baseurl: "/simla2023"
+baseurl: ""
 
 markdown: kramdown
 # ins_logo: "images/simla-logo.png"
@@ -17,5 +17,5 @@ sass:
 
 nav:
  - name: "ACNS 2023"
-   link: "https://sites.google.com/di.uniroma1.it/acns2023/"
+   link: ""
 
