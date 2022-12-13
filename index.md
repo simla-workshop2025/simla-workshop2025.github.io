@@ -67,7 +67,7 @@ To be announced.
 
 ## BEST PAPER AWARD
 
-Each workshop affiliated with ACNS 2023 will nominate the best paper candidates. Best workshop papers will be selected and awarded among them.
+Each workshop affiliated with ACNS 2023 will nominate the best paper candidates. Best workshop papers will be selected and awarded a 500 EUR prize sponsored by Springer.
 
 
 
@@ -86,9 +86,6 @@ There will be 1-2 invited speakers in the workshop.
 
 To be announced.
 
-## WEBSITE
-
-To be announced. 
 
 ## CONTACT INFORMATION
 
