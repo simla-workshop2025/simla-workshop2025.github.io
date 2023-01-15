@@ -77,10 +77,11 @@ There will be 1-2 invited speakers in the workshop.
 
 
 ## WORKSHOP ORGANIZERS 
-
-| **Workshop Chair**| [Ezekiel Soremekun](https://ezekiel-soremekun.github.io/) (SnT, University of Luxembourg & Royal Holloway, University of London (RHUL), UK) |
-|**Web Chair**| [Badr Souani](https://wwwen.uni.lu/recherche/fstm/dcs/members/badr_souani) (SnT, University of Luxembourg) | 
-|**Publicity Chair** | [Salah Ghamizi](https://wwwen.uni.lu/snt/people/salah_ghamizi) (SnT, University of Luxembourg) |
+| Name | Institution | Chair |
+|:----:|:------------::-----:|
+| **Workshop Chair**| [Ezekiel Soremekun] (https://ezekiel-soremekun.github.io/) | SnT, University of Luxembourg & Royal Holloway, University of London (RHUL), UK) |
+|**Web Chair**| [Badr Souani](https://wwwen.uni.lu/recherche/fstm/dcs/members/badr_souani) | (SnT, University of Luxembourg) | 
+|**Publicity Chair** | [Salah Ghamizi](https://wwwen.uni.lu/snt/people/salah_ghamizi) | (SnT, University of Luxembourg) |
 
 ## PROGRAM COMMITTEE
 
