@@ -2,7 +2,7 @@ title: Security in Machine Learning and its Applications (SiMLA 2023)
 url: ""
 baseur1: "/Simla2023"
 
-markdown: kramdown
+markdown: GFM
 # ins_logo: "images/simla-logo.png"
 
 tracking_id: #
