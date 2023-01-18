@@ -85,7 +85,14 @@ There will be 1-2 invited speakers in the workshop.
 
 ## PROGRAM COMMITTEE
 
-To be announced.
+| Name | Institution | 
+| :--- | :---------- | 
+| [Alexander Bartel](https://www.abartel.net/) | Umeå University |
+| [Apratim Bhattacharyya](https://apratimbhattacharyya18.github.io/) | Qualcomm AI Research |
+| [Maxime Cordy](https://maxcordy.github.io/) | SnT, University of Luxembourg |
+| [Sakshi Udeshi](https://sakshiudeshi.github.io/) | Lumeros AI |
+| [Sudipta Chattopadhyay](https://sudiptac.bitbucket.io/) | Singapore University of Technology and Design |
+| [Wang Jingyi](https://wang-jingyi.github.io/) | Zhejiang University |
 
 
 ## CONTACT INFORMATION
