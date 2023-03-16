@@ -81,7 +81,7 @@ There will be 1-2 invited speakers in the workshop.
 ## WORKSHOP ORGANIZERS 
 | Name | Institution | Chair |
 | :--- | :---------- | :---- |
-| [Ezekiel Soremekun](https://ezekiel-soremekun.github.io/) | RHUL, UK; SnT, Luxembourg | **Workshop Chair** |
+| [Ezekiel Soremekun](https://ezekiel-soremekun.github.io/) | Royal Holloway, University of London (RHUL), UK; | **Workshop Chair** |
 | [Badr Souani](https://wwwen.uni.lu/recherche/fstm/dcs/members/badr_souani) | SnT, University of Luxembourg | **Web Chair** | 
 | [Salah Ghamizi](https://wwwen.uni.lu/snt/people/salah_ghamizi) | SnT, University of Luxembourg | **Publicity Chair** | 
 
@@ -91,10 +91,11 @@ There will be 1-2 invited speakers in the workshop.
 | :--- | :---------- | 
 | [Alexander Bartel](https://www.abartel.net/) | Umeå University |
 | [Apratim Bhattacharyya](https://apratimbhattacharyya18.github.io/) | Qualcomm AI Research |
+| [Ezekiel Soremekun](https://ezekiel-soremekun.github.io/) | Royal Holloway, University of London (RHUL), UK; |
 | [Martin Gubri](https://gubri.eu/) | SnT, University of Luxembourg |
 | [Maxime Cordy](https://maxcordy.github.io/) | SnT, University of Luxembourg |
 | [Sakshi Udeshi](https://sakshiudeshi.github.io/) | Lumeros AI |
-| [Salah Ghamizi](https://wwwen.uni.lu/snt/people/salah_ghamizi) | SnT, University of Luxembourg | **Publicity Chair** |
+| [Salah Ghamizi](https://wwwen.uni.lu/snt/people/salah_ghamizi) | SnT, University of Luxembourg |
 | [Sudipta Chattopadhyay](https://sudiptac.bitbucket.io/) | Singapore University of Technology and Design |
 | [Wang Jingyi](https://wang-jingyi.github.io/) | Zhejiang University |
 
