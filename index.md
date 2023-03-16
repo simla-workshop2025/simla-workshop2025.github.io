@@ -16,7 +16,7 @@
 
 ## IMPORTANT DATES
 
-**Paper submission deadline**: March 9, 2023 (Anywhere on Earth)   
+~~**Paper submission deadline**: March 9, 2023 (Anywhere on Earth)~~   
 **Acceptance Notification**: April 19, 2023   
 **Camera-ready deadline**: May 1, 2023 (Anywhere on Earth)   
 **Conference**: 19-22 June, 2023   
@@ -62,7 +62,8 @@ EasyChair System will be used for paper submission.
 
 ## Submission Link
 
-Please submit your paper via Easychair: [Easychair submission link](https://easychair.org/my/conference?conf=simla2023).
+Submission deadline has passed. 
+~~Please submit your paper via Easychair: [Easychair submission link](https://easychair.org/my/conference?conf=simla2023).~~
 
 
 ## BEST PAPER AWARD
@@ -89,8 +90,10 @@ There will be 1-2 invited speakers in the workshop.
 | :--- | :---------- | 
 | [Alexander Bartel](https://www.abartel.net/) | Umeå University |
 | [Apratim Bhattacharyya](https://apratimbhattacharyya18.github.io/) | Qualcomm AI Research |
+| [Martin Gubri](https://gubri.eu/) | SnT, University of Luxembourg |
 | [Maxime Cordy](https://maxcordy.github.io/) | SnT, University of Luxembourg |
 | [Sakshi Udeshi](https://sakshiudeshi.github.io/) | Lumeros AI |
+| [Salah Ghamizi](https://wwwen.uni.lu/snt/people/salah_ghamizi) | SnT, University of Luxembourg | **Publicity Chair** |
 | [Sudipta Chattopadhyay](https://sudiptac.bitbucket.io/) | Singapore University of Technology and Design |
 | [Wang Jingyi](https://wang-jingyi.github.io/) | Zhejiang University |
 
