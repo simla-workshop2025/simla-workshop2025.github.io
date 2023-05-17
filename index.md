@@ -111,9 +111,9 @@ Keynote by [Prof. Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/index.htm
 | JST (UTC+9) | UTC | Agenda |  Chair | Details|
 | :--- | :---------- | :---------- | :---------- | :---------- |
 | 15:30	| 6:30	| Opening	| [Ezekiel Soremekun](https://ezekiel-soremekun.github.io/)	|	|
-| 15:45	| 6:45	| Invited Talk	| 	|	Speaker Name: [Prof. Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/index.html)  Affiliation: [RIKEN Center for Advanced Intelligence Project](https://aip.riken.jp/?lang=en)  Title: "Towards Trustworthy Machine Learning from Weakly Supervised, Noisy, and Biased Data" |
+| 15:45	| 6:45	| Invited Talk	| 	|	Speaker Name: [Prof. Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/index.html) <br>  Affiliation: [RIKEN Center for Advanced Intelligence Project](https://aip.riken.jp/?lang=en)  <br> Title: "Towards Trustworthy Machine Learning from Weakly Supervised, Noisy, and Biased Data" |
 | 16:45 | 7:45	| Break	|	|	|
-| 17:00	| 8:00	|	Paper (30 min each) | TBA	| (1) Federated Learning Approach for Distributed Ransomware Analysis (2) Forensic Identification of Android Trojans Using Stacked Ensemble of Deep Neural Networks (3) Eliminating Adversarial Perturbations Using Image-to-Image Translation Method |
+| 17:00	| 8:00	|	Paper (30 min each) | TBA	| (1) Federated Learning Approach for Distributed Ransomware Analysis <br> (2) Forensic Identification of Android Trojans Using Stacked Ensemble of Deep Neural Networks <br> (3) Eliminating Adversarial Perturbations Using Image-to-Image Translation Method |
 | 18:30 	| Closing  	| [Ezekiel Soremekun](https://ezekiel-soremekun.github.io/)	|	|	|
 
 
