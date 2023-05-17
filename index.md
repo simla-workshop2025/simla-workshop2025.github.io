@@ -4,7 +4,7 @@
 <!-- ![](images/simla-logo.png =130x) -->
 <img src="images/simla-logo.png"/>
 
-### Kyoto, Japan | 19-22 June, 2023
+### Kyoto, Japan | 19 June, 2023
 
 ### Call for Papers
 
@@ -17,9 +17,9 @@
 ## IMPORTANT DATES
 
 ~~**Paper submission deadline**: March 9, 2023 (Anywhere on Earth)~~   
-**Acceptance Notification**: April 19, 2023   
-**Camera-ready deadline**: May 1, 2023 (Anywhere on Earth)   
-**Conference**: 19-22 June, 2023   
+~~**Acceptance Notification**: April 19, 2023~~   
+~~**Camera-ready deadline**: May 1, 2023 (Anywhere on Earth)~~   
+**SiMLA Conference**: 19 June, 2023  (15:30 - 18:30 JST (UTC+9)) 
 
 ## AIMS AND SCOPE
 
@@ -75,7 +75,10 @@ Each workshop affiliated with ACNS 2023 will nominate the best paper candidates.
 
 ## INVITED SPEAKERS
 
-There will be 1-2 invited speakers in the workshop.
+Keynote by [Prof. Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/index.html), the Director of [RIKEN](https://www.riken.jp/en/)
+[Center for Advanced Intelligence Project](https://aip.riken.jp/?lang=en) and Professor, [The University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html).
+ 
+~~There will be 1-2 invited speakers in the workshop.~~
 
 
 ## WORKSHOP ORGANIZERS 
@@ -98,6 +101,28 @@ There will be 1-2 invited speakers in the workshop.
 | [Salah Ghamizi](https://wwwen.uni.lu/snt/people/salah_ghamizi) | SnT, University of Luxembourg |
 | [Sudipta Chattopadhyay](https://sudiptac.bitbucket.io/) | Singapore University of Technology and Design |
 | [Wang Jingyi](https://wang-jingyi.github.io/) | Zhejiang University |
+
+## PROGRAM
+
+| Time Table (19th June, 2023) |
+| :------------- |
+
+
+| JST | UTC | Agenda |  Chair | Details|
+| (UTC+9) | |	|	|	|
+| :--- | :---------- | :---------- | :---------- | :---------- |
+| 15:30	| 6:30	| Opening	| [Ezekiel Soremekun](https://ezekiel-soremekun.github.io/)	|	|
+| 15:45	| 6:45	| Invited Talk	| 	|	Speaker Name: [Prof. Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/index.html) 
+Affiliation: [RIKEN Center for Advanced Intelligence Project](https://aip.riken.jp/?lang=en) 
+Title: "Towards Trustworthy Machine Learning from Weakly Supervised, Noisy,
+and Biased Data" |
+| 16:45 | 7:45	| Break	|	|	|
+| 17:00	| 8:00	|	Paper (30 min each) | TBA	| 
+(1) Federated Learning Approach for Distributed Ransomware Analysis
+(2) Forensic Identification of Android Trojans Using Stacked Ensemble of Deep Neural Networks
+(3) Eliminating Adversarial Perturbations Using Image-to-Image Translation Method |
+| 18:30 	| Closing  	| [Ezekiel Soremekun](https://ezekiel-soremekun.github.io/)	|	|	|
+
 
 
 ## CONTACT INFORMATION
