@@ -102,9 +102,15 @@ Keynote by [Prof. Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/index.htm
 | [Sudipta Chattopadhyay](https://sudiptac.bitbucket.io/) | Singapore University of Technology and Design |
 | [Wang Jingyi](https://wang-jingyi.github.io/) | Zhejiang University |
 
+## WORKSHOP REGISTRATION
+
+Please [Register Here](https://conferenceservice.jp/registration/acns2023/). 
+
+Registration is free for students. 
+
 ## PROGRAM
 
-| Time Table (19th June, 2023) |
+| Time Table : 19th June, 2023 (Virtual) |
 | :------------- |
 
 
