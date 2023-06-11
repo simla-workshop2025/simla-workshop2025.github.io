@@ -126,5 +126,5 @@ Registration is free for students.
 
 ## CONTACT INFORMATION
 
-For more information, please contact the organizer [Ezekiel Soremekun](mailto:ezekiel.soremekun@uni.lu)
+For more information, please contact the organizer [Ezekiel Soremekun](mailto:ezekiel.soremekun@rhul.ac.uk)
 
