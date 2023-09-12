@@ -1,6 +1,6 @@
-title: Security in Machine Learning and its Applications (SiMLA 2023)
+title: Security in Machine Learning and its Applications (SiMLA 2024)
 url: ""
-baseur1: "/Simla2023"
+baseur1: "/Simla2024"
 
 markdown: GFM
 # ins_logo: "images/simla-logo.png"
@@ -8,14 +8,14 @@ markdown: GFM
 tracking_id: #
 
 footer: yes
-footer_url: "https://sulab-sever.u-aizu.ac.jp/ACNS2023/"
-footer_text: "SiMLA 2023 (Co-located with ACNS2023)"
+footer_url: "https://sulab-sever.u-aizu.ac.jp/ACNS2024/"
+footer_text: "SiMLA 2024 (Co-located with ACNS2024)"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "ACNS 2023"
-   link: "https://sulab-sever.u-aizu.ac.jp/ACNS2023/"
+ - name: "ACNS 2024"
+   link: "https://sulab-sever.u-aizu.ac.jp/ACNS2024/"
 
