@@ -1,7 +1,7 @@
 
-#Call for Papers
+# Call for Papers
 
-#6th ACNS Workshop on Security in Machine Learning and its Applications (SiMLA 2024)
+# 6th ACNS Workshop on Security in Machine Learning and its Applications (SiMLA 2024)
 
 # Co-located with ACNS 2024: 22nd International Conference on Applied Cryptography and Network Security 
 
