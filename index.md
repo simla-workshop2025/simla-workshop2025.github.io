@@ -76,7 +76,7 @@ There will be 1-2 invited speakers in the workshop.
 ## WORKSHOP ORGANIZERS 
 
 - **Workshop Chair**: [Ezekiel Soremekun](https://ezekiel-soremekun.github.io/) (Royal Holloway, University of London (RHUL), UK)  
-- **Web Chair**: To be finalized.   
+- **Web Chair**: [Badr Souani](https://wwwen.uni.lu/recherche/fstm/dcs/members/badr_souani) (SnT, University of Luxembourg (LU), LU)
 - **Publicity Chair**: To be finalized.   
 
 ## PROGRAM COMMITTEE
