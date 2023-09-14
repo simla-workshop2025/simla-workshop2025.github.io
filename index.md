@@ -1,11 +1,12 @@
+<img src="images/simla-logo.png"/>
+
+### Abu Dhabi, UAE | 5-8 March, 2024
 
 ### Call for Papers
 
 ### 6th ACNS Workshop on Security in Machine Learning and its Applications (SiMLA 2024)
 
 ### Co-located with ACNS 2024: 22nd International Conference on Applied Cryptography and Network Security 
-
-### Abu Dhabi, UAE | 5-8 March, 2024
  
 ---
 
