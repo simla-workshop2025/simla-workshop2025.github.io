@@ -28,7 +28,7 @@ Motivated by this situation, this workshop solicits original contributions on th
 Topics of interest include, but are not limited, to the following:  
 
 - Application of Machine Learning for Software Security  
-- Security Testing & Validation of Machine Learning Systems  
+- Security Testing and validation of Machine Learning Systems  
 - Application of Large Language Models (LLMs) for Software Security
 - Security Analysis of Large Language Models (LLMs)
 - Adversarial Machine Learning  
@@ -36,9 +36,9 @@ Topics of interest include, but are not limited, to the following:
 - Detection and Defense to Training Data set Poison attack (including backdoor attacks)  
 - Privacy-Preserving Machine Learning  
 - Watermarking of Machine Learning Algorithms and Systems  
-- Attack and defense of face recognition systems  
-- Attacks and defense of voice recognition and voice commanded systems  
-- Attacks and defense of machine learning algorithms in program analysis  
+- Attack and defence of face recognition systems  
+- Attacks and defence of voice recognition and voice commanded systems  
+- Attacks and defence of machine learning algorithms in program analysis  
 - Malware identification and analysis  
 - Spam and phishing email detection  
 - Vulnerability analysis  
@@ -47,11 +47,11 @@ Topics of interest include, but are not limited, to the following:
 
 Authors are welcome to submit their papers in the following two forms:
 
-- **Full papers** that present relatively mature research results related to security issues of machine learning algorithms, systems, and applications. The paper could be an attack, defense, security analysis, surveys, etc. The submissions for this type must follow the original LNCS format (see [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)) with a page limit of 18 pages (including references) for the main part (reviewers are not required to read beyond this limit) and 20 pages in total.  Note that the page limit for the camera-ready paper is set to a maximum of 20 pages (in LNCS format).
+- **Full papers** that present relatively mature research results related to security issues of machine learning algorithms, systems, and applications. The paper could be an attack, defence, security analysis, survey, etc. The submissions for this type must follow the original LNCS format (see [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)) with a page limit of 18 pages (including references) for the main part (reviewers are not required to read beyond this limit) and 20 pages in total.  Note that the page limit for the camera-ready paper is set to a maximum of 20 pages (in LNCS format).
 
-- **Short papers** that describe ongoing work and bring some new insights and inspiring ideas related to security issues of machine learning algorithms, systems, and applications. Short papers will follow the same LNCS format as full paper (see [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)), but with a page limit of 9 pages (including references).
+- **Short papers** that describe ongoing work and bring some new insights and inspiring ideas related to security issues of machine learning algorithms, systems, and applications. Short papers will follow the same LNCS format as full papers (see [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)) but with a page limit of 9 pages (including references).
 
-The submissions must be anonymous, with no author names, affiliations, acknowledgment, or obvious references. Once accepted, the papers will appear in the formal proceedings. Authors of accepted papers must guarantee that their papers will be presented at the conference and must make their papers available online. There will be the best paper award.
+The submissions must be anonymous, with no author names, affiliations, acknowledgement, or obvious references. Once accepted, the papers will appear in the formal proceedings. Authors of accepted papers must guarantee that their papers will be presented at the conference and must make their papers available online. There will be the best paper award.
 
 - **Special Note to Springer LNCS Proceedings**: Authors should consult Springer's authors' guidelines and use their proceedings templates, either for LaTeX or for Word, for the preparation of their papers. Springer encourages authors to include their ORCIDs in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form, through which the copyright for their paper is transferred to Springer. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
 
@@ -77,8 +77,8 @@ There will be 1-2 invited speakers in the workshop.
 ## WORKSHOP ORGANIZERS 
 
 - **Workshop Chair**: [Ezekiel Soremekun](https://ezekiel-soremekun.github.io/) (Royal Holloway, University of London (RHUL), UK)  
-- **Web Chair**: [Badr Souani](https://wwwen.uni.lu/recherche/fstm/dcs/members/badr_souani) (SnT, University of Luxembourg (LU), LU)
-- **Publicity Chair**: To be finalized.   
+- **Web Chair**: [Badr Souani](https://wwwen.uni.lu/recherche/fstm/dcs/members/badr_souani) (SnT, University of Luxembourg, Luxembourg)
+- **Publicity Chair**: [Salijona Dyrmishi](https://www.uni.lu/en/person/NTAwMzU4NDhfX1NhbGlqb25hIERZUk1JU0hJ/) (SnT, University of Luxembourg, Luxembourg)
 
 ## PROGRAM COMMITTEE
 
