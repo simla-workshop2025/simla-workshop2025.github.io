@@ -83,10 +83,7 @@ There will be 1-2 invited speakers in the workshop.
 ## PROGRAM COMMITTEE
 
 To be finalized.
-
-## WEBSITE
-
-To be finalized. 
+ 
 
 ## CONTACT INFORMATION
 
