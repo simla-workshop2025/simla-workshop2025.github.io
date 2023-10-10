@@ -93,7 +93,7 @@ To be finalized.
 | [Amin Aminifar](https://scholar.google.com/citations?user=eEG0x3cAAAAJ&hl=en) | Heidelberg University | 
 | [Christopher M. Poskitt](https://cposkitt.github.io/) | Singapore Management University | 
 | [Jingyi Wang](https://wang-jingyi.github.io/) | Zhejiang University | 
-| [Salah Ghamizi](www.sghamizi.com) | SnT, University of Luxembourg |
+| [Salah Ghamizi](http://www.sghamizi.com) | SnT, University of Luxembourg |
 | [Salijona Dyrmishi](https://www.uni.lu/en/person/NTAwMzU4NDhfX1NhbGlqb25hIERZUk1JU0hJ/) | University of Luxembourg |  
 
 
