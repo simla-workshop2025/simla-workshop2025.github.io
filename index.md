@@ -76,14 +76,28 @@ There will be 1-2 invited speakers in the workshop.
 
 ## WORKSHOP ORGANIZERS 
 
-- **Workshop Chair**: [Ezekiel Soremekun](https://ezekiel-soremekun.github.io/) (Royal Holloway, University of London (RHUL), UK)  
-- **Web Chair**: [Badr Souani](https://wwwen.uni.lu/recherche/fstm/dcs/members/badr_souani) (SnT, University of Luxembourg, Luxembourg)
-- **Publicity Chair**: [Salijona Dyrmishi](https://www.uni.lu/en/person/NTAwMzU4NDhfX1NhbGlqb25hIERZUk1JU0hJ/) (SnT, University of Luxembourg, Luxembourg)
+| Name | Institution | Chair |
+| :--- | :---------- | :---- |
+| [Ezekiel Soremekun](https://ezekiel-soremekun.github.io/) | Royal Holloway, University of London | Workshop Chair | 
+| [Badr Souani](https://wwwen.uni.lu/recherche/fstm/dcs/members/badr_souani) | SnT, University of Luxembourg | Web Chair |
+| [Salah Ghamizi](https://wwwen.uni.lu/snt/people/salah_ghamizi) | SnT, University of Luxembourg | Publicity Chair |
+
+
 
 ## PROGRAM COMMITTEE
 
 To be finalized.
- 
+
+| Name | Institution | 
+| :--- | :---------- |
+| [Ahmed Rezine](https://rezahmed.github.io/) | Linköping University | 
+| [Alexandre Bartel](https://www.abartel.net/) | Umeå University |  
+| [Amin Aminifar](https://scholar.google.com/citations?user=eEG0x3cAAAAJ&hl=en) | Heidelberg University | 
+| [Christopher M. Poskitt](https://cposkitt.github.io/) | Singapore Management University | 
+| [Jingyi Wang](https://wang-jingyi.github.io/) | Zhejiang University | 
+| [Salah Ghamizi](www.sghamizi.com) | SnT, University of Luxembourg |
+| [Salijona Dyrmishi](https://www.uni.lu/en/person/NTAwMzU4NDhfX1NhbGlqb25hIERZUk1JU0hJ/) | University of Luxembourg |  
+
 
 ## CONTACT INFORMATION
 
