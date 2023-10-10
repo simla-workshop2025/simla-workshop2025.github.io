@@ -60,7 +60,7 @@ EasyChair System will be used for paper submission.
 
 ## Submission Link
 
-To be finalized.
+Please submit your paper via Easychair: [Easychair Submission Link](https://easychair.org/conferences/?conf=simla2024)
 
 
 ## BEST PAPER AWARD
