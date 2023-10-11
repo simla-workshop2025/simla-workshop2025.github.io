@@ -12,8 +12,8 @@
 
 ## IMPORTANT DATES
 
-**Paper submission deadline**: November 15, 2024 (Anywhere on Earth)   
-**Acceptance Notification**: December 22, 2024   
+**Paper submission deadline**: November 15, 2023 (Anywhere on Earth)   
+**Acceptance Notification**: December 22, 2023   
 **Camera-ready deadline**: January 2nd, 2024  (Anywhere on Earth)   
 **Conference**: March 5-8, 2024   
 
