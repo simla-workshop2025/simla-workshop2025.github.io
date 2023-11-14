@@ -12,7 +12,7 @@
 
 ## IMPORTANT DATES
 
-**Paper submission deadline**: December 10, 2023 (Anywhere on Earth)   
+**Paper submission deadline**: December 10, 2023 (Anywhere on Earth)[Extended]   
 **Acceptance Notification**: January 10, 2024   
 **Camera-ready deadline**: January 20, 2024  (Anywhere on Earth)   
 **Conference**: March 5-8, 2024   
@@ -65,13 +65,17 @@ Please submit your paper via Easychair: [Easychair Submission Link](https://easy
 
 ## BEST PAPER AWARD
 
-Each workshop affiliated with ACNS 2024 will nominate the best paper candidates. Best workshop papers will be selected and awarded among them.
+Each workshop affiliated with ACNS 2024 (ADSC, AIBlock, AIHWS, AIoTS, CIMSS, Cloud S&P, SCI, SecMT, SiMLA and S&P-FL) will nominate the **best paper** candidates. Best workshop papers will be selected and awarded with **500 EUR prize** sponsored by Springer. The list of previous best workshop papers is available [here](http://jianying.space/acns/acns-workshops.html) 
 
+
+## STUDENT TRAVEL GRANT
+
+ACNS 2024 offers **travel grants for students** to encourage participation and submission of their papers. For more details check [ACNS'24 Student Travel Grants website](https://wp.nyu.edu/acns2024/student-travel-grants/).
 
 
 ## INVITED SPEAKERS
 
-There will be 1-2 invited speakers in the workshop.
+There will be 1-2 invited keynote speakers in the workshop.
 
 
 ## WORKSHOP ORGANIZERS 
