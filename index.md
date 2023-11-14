@@ -84,8 +84,6 @@ There will be 1-2 invited speakers in the workshop.
 
 ## PROGRAM COMMITTEE
 
-To be finalized.
-
 | Name | Institution | 
 | :--- | :---------- |
 | [Ahmed Rezine](https://rezahmed.github.io/) | Linköping University | 
