@@ -110,7 +110,7 @@ Please [Register Here](https://wp.nyu.edu/acns2024/registration/).
 
 ## PROGRAM
 
-| Time Table : Thursday 8th March, 2023 (Hybrid: Physical (Room 2) + Virtual (Link TBA) |
+| Time Table : Thursday 8th March, 2023 (Hybrid: Physical (Room 2) + Virtual (TBA) |
 | :------------- |
 
 | GST (GMT+4) | UTC | Agenda |  Chair | Details|
