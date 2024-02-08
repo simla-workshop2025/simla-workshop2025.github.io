@@ -16,7 +16,6 @@
 ~~**Acceptance Notification**: January 10, 2024~~   
 ~~**Camera-ready deadline**: January 20, 2024  (Anywhere on Earth)~~   
 **SiMLA Conference**: March 8, 2024 (14:00 - 17:30 Gulf Standard Time (GMT+4))
-**ACNS Conference**: March 5-8, 2024   
 
 ## AIMS AND SCOPE
 
@@ -118,16 +117,11 @@ March 8, 2024 (14:00 - 17:30 )
 
 | GST (GMT+4) | UTC | Agenda |  Chair | Details|
 | :--- | :---------- | :---------- | :---------- | :---------- |
-| 14:00	| 10:00	| Opening	| [Ezekiel Soremekun](https://ezekiel-soremekun.github.io/)	|	|
+| 14:00	| 10:00	| Opening	| TBA	|	|
 | 14:15	| 10:15	| Invited Talk	| TBA|	Speaker Name: [Prof. Yang Zhang](https://yangzhangalmo.github.io/) <br> <br> Affiliation: [CISPA Helmholtz Center for Information Security](https://cispa.de/en)  <br> <br> Title: "Attacking Machine Learning Models" |
 | 15:15 | 11:15	| Break	|	|	|
-| 15:45	| 11:45	|	Paper (30 min each) | [Ezekiel Soremekun](https://ezekiel-soremekun.github.io/)	| 
-(1) Alessandro Brighente, Mauro Conti, Sitora Salaeva and Federico Turin. One Class to Test Them All: One-Class Classifier-Based ADS-B Location Spoofing Detection <br> <br> 
-(2) Kota Yoshida and Takeshi Fujino. Model Extraction Attack without Natural Image <br> <br> 
-(3) Ruilin Wang and Chuadhry Mujeeb Ahmed. Differential Privacy with Selected Privacy Budget ε in a Cyber Physical System Using Machine Learning <br> <br>
-(4) Amirhossein Ebrahimi, Buvana Ganesh and Paolo Palmieri. Privacy-Preserving Sentiment Analysis using Homomorphic Encryption and Attention Mechanisms
-|
-| 17:45  | 12:45	| Closing  	| [Ezekiel Soremekun](https://ezekiel-soremekun.github.io/)	|	|
+| 15:45	| 11:45	|	Paper (30 min each) | TBA |  (1) Alessandro Brighente, Mauro Conti, Sitora Salaeva and Federico Turin. One Class to Test Them All: One-Class Classifier-Based ADS-B Location Spoofing Detection <br> <br>  (2) Kota Yoshida and Takeshi Fujino. Model Extraction Attack without Natural Images <br> <br>  (3) Ruilin Wang and Chuadhry Mujeeb Ahmed. Differential Privacy with Selected Privacy Budget ε in a Cyber Physical System Using Machine Learning <br> <br> (4) Amirhossein Ebrahimi, Buvana Ganesh and Paolo Palmieri. Privacy-Preserving Sentiment Analysis using Homomorphic Encryption and Attention Mechanisms |
+| 17:45  | 12:45	| Closing  	| TBA |	|
 
 
 
