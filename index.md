@@ -75,7 +75,7 @@ ACNS 2024 offers **travel grants for students** to encourage participation and s
 
 ## INVITED SPEAKERS
 
-Keynote by [Prof. Yang Zhang](https://yangzhangalmo.github.io/), Faculty (full professor) at [CISPA Helmholtz Center for Information Security](https://cispa.de/en) and a member of [ELLIS](the European Laboratory for Learning and Intelligent Systems).
+Keynote by [Prof. Yang Zhang](https://yangzhangalmo.github.io/), Faculty (full professor) at [CISPA Helmholtz Center for Information Security](https://cispa.de/en) and a member of [ELLIS - the European Laboratory for Learning and Intelligent Systems](https://ellis.eu/).
 
 ~~There will be 1-2 invited keynote speakers in the workshop.~~
 
