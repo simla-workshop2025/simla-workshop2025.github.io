@@ -110,7 +110,7 @@ Please [Register Here](https://wp.nyu.edu/acns2024/registration/).
 
 ## PROGRAM
 
-| Time Table : Thursday 7th March, 2024 (Hybrid: Physical (Room 2) + Virtual (TBA) |
+| Time Table : Thursday 7th March, 2024 (Hybrid: Physical (Room 2) + Virtual (TBA)) |
 | :------------- |
 
 | GST (GMT+4) | UTC | Agenda |  Chair | Details|
