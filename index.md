@@ -12,10 +12,11 @@
 
 ## IMPORTANT DATES
 
-**Paper submission deadline**: December 10, 2023 (Anywhere on Earth)[Extended]   
-**Acceptance Notification**: January 10, 2024   
-**Camera-ready deadline**: January 20, 2024  (Anywhere on Earth)   
-**Conference**: March 5-8, 2024   
+~~**Paper submission deadline**: December 10, 2023 (Anywhere on Earth)[Extended]~~   
+~~**Acceptance Notification**: January 10, 2024~~   
+~~**Camera-ready deadline**: January 20, 2024  (Anywhere on Earth)~~   
+**SiMLA Conference**: March 8, 2024 (14:00 - 17:30 Gulf Standard Time (GMT+4))
+**ACNS Conference**: March 5-8, 2024   
 
 ## AIMS AND SCOPE
 
@@ -60,7 +61,7 @@ EasyChair System will be used for paper submission.
 
 ## Submission Link
 
-Please submit your paper via Easychair: [Easychair Submission Link](https://easychair.org/conferences/?conf=simla2024)
+~~Please submit your paper via Easychair: [Easychair Submission Link](https://easychair.org/conferences/?conf=simla2024)~~
 
 
 ## BEST PAPER AWARD
@@ -75,7 +76,9 @@ ACNS 2024 offers **travel grants for students** to encourage participation and s
 
 ## INVITED SPEAKERS
 
-There will be 1-2 invited keynote speakers in the workshop.
+Keynote by [Prof. Yang Zhang](https://yangzhangalmo.github.io/), Faculty (full professor) at [CISPA Helmholtz Center for Information Security](https://cispa.de/en) and a member of [ELLIS](the European Laboratory for Learning and Intelligent Systems).
+
+~~There will be 1-2 invited keynote speakers in the workshop.~~
 
 
 ## WORKSHOP ORGANIZERS 
@@ -99,6 +102,33 @@ There will be 1-2 invited keynote speakers in the workshop.
 | [Salijona Dyrmishi](https://www.uni.lu/en/person/NTAwMzU4NDhfX1NhbGlqb25hIERZUk1JU0hJ/) | University of Luxembourg | 
 | [Sudipta Chattopadhyay](https://sudiptac.bitbucket.io/) | Singapore University of Technology and Design |
 | [Thibault Simonetto](https://www.uni.lu/en/person/NTAwMTkwMDlfX1RoaWJhdWx0IEplYW4gQW5nZWwgU0lNT05FVFRP/) | SnT, University of Luxembourg |
+
+
+## WORKSHOP REGISTRATION
+
+Please [Register Here](https://wp.nyu.edu/acns2024/registration/).
+
+
+## PROGRAM
+
+| Time Table : Thursday 8th March, 2023 (Hybrid: Physical (Room 2) + Virtual (Link TBA) |
+| :------------- |
+
+March 8, 2024 (14:00 - 17:30 )
+
+| GST (GMT+4) | UTC | Agenda |  Chair | Details|
+| :--- | :---------- | :---------- | :---------- | :---------- |
+| 14:00	| 10:00	| Opening	| [Ezekiel Soremekun](https://ezekiel-soremekun.github.io/)	|	|
+| 14:15	| 10:15	| Invited Talk	| TBA|	Speaker Name: [Prof. Yang Zhang](https://yangzhangalmo.github.io/) <br> <br> Affiliation: [CISPA Helmholtz Center for Information Security](https://cispa.de/en)  <br> <br> Title: "Attacking Machine Learning Models" |
+| 15:15 | 11:15	| Break	|	|	|
+| 15:45	| 11:45	|	Paper (30 min each) | [Ezekiel Soremekun](https://ezekiel-soremekun.github.io/)	| 
+(1) Alessandro Brighente, Mauro Conti, Sitora Salaeva and Federico Turin. One Class to Test Them All: One-Class Classifier-Based ADS-B Location Spoofing Detection <br> <br> 
+(2) Kota Yoshida and Takeshi Fujino. Model Extraction Attack without Natural Image <br> <br> 
+(3) Ruilin Wang and Chuadhry Mujeeb Ahmed. Differential Privacy with Selected Privacy Budget ε in a Cyber Physical System Using Machine Learning <br> <br>
+(4) Amirhossein Ebrahimi, Buvana Ganesh and Paolo Palmieri. Privacy-Preserving Sentiment Analysis using Homomorphic Encryption and Attention Mechanisms
+|
+| 17:45  | 12:45	| Closing  	| [Ezekiel Soremekun](https://ezekiel-soremekun.github.io/)	|	|
+
 
 
 ## CONTACT INFORMATION
