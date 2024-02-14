@@ -15,7 +15,7 @@
 ~~**Paper submission deadline**: December 10, 2023 (Anywhere on Earth)[Extended]~~   
 ~~**Acceptance Notification**: January 10, 2024~~   
 ~~**Camera-ready deadline**: January 20, 2024  (Anywhere on Earth)~~   
-**SiMLA Conference**: March 8, 2024 (14:00 - 17:30 Gulf Standard Time (GMT+4))
+**SiMLA Conference**: March 7, 2024 (14:00 - 17:30 Gulf Standard Time (GMT+4))
 
 ## AIMS AND SCOPE
 
