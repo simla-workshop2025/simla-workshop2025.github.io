@@ -110,7 +110,7 @@ Please [Register Here](https://wp.nyu.edu/acns2024/registration/).
 
 ## PROGRAM
 
-| Time Table : Thursday 7th March, 2024 (Hybrid: Physical ([Room 2](https://wp.nyu.edu/acns2024/venue/)) + Virtual ([MS Teams](https://eur03.safelinks.protection.outlook.com/ap/t-59584e83/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_MzI5NzMxYzQtYjBiZi00NDU4LWFhOWUtYzQ0N2Y5ZDVlNzYw%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522445a9c95-0f9d-4953-9db1-bc4a45dd1220%2522%252c%2522Oid%2522%253a%2522c1c4f9bb-b863-4b84-9b1b-1fd9148a70c5%2522%257d&data=05%7C02%7CEzekiel.Soremekun%40rhul.ac.uk%7C6f7f15155cbd4e9814e808dc3d1e9100%7C2efd699a19224e69b601108008d28a2e%7C0%7C0%7C638452448692019162%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=rgfCHvnkr7rBxN3Y1hLSCw1Zaj05nGLJsLehYa0ptyk%3D&reserved=0))) |
+| Time Table : Thursday 7th March, 2024 (Hybrid: Physical ([Room 2](https://wp.nyu.edu/acns2024/venue/)) + Virtual ([Zoom](https://nyu.zoom.us/j/93447631476))) |
 | :------------- |
 
 | GST (GMT+4) | UTC | Agenda |  Chair | Details|
