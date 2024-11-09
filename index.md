@@ -76,7 +76,7 @@ There will be 1-2 invited keynote speakers in the workshop.
 
 | Name | Institution | Chair |
 | :--- | :---------- | :---- |
-| [Yangguang Tian](https://www.surrey.ac.uk/people/yangguang-tian) | | Workshop Chair | 
+| [Yangguang Tian](https://www.surrey.ac.uk/people/yangguang-tian) | University of Surrey | Workshop Chair | 
 | [Ye Dong](https://ye-d.github.io/) | Singapore University of Technology and Design | Workshop Co-Chair |
 
 ## PROGRAM COMMITTEE
