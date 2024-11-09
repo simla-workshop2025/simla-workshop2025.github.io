@@ -1,6 +1,6 @@
 title: Security in Machine Learning and its Applications (SiMLA 2025)
 url: ""
-baseur1: "/Simla2025"
+baseur1: "/simla2025"
 
 markdown: GFM
 # ins_logo: "images/simla-logo.png"
@@ -8,7 +8,7 @@ markdown: GFM
 tracking_id: #
 
 footer: yes
-footer_url: "https://wp.nyu.edu/acns2025/"
+footer_url: "https://acns2025.fordaysec.de/"
 footer_text: "SiMLA 2025 (Co-located with ACNS2025)"
 
 sass:
@@ -17,5 +17,5 @@ sass:
 
 nav:
  - name: "ACNS 2025"
-   link: "https://wp.nyu.edu/acns2025/"
+   link: "https://acns2025.fordaysec.de/"
 

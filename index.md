@@ -1,27 +1,27 @@
 <img src="images/simla-logo.png"/>
 
-### Abu Dhabi, UAE | 5-8 March, 2024
+### Munich, Germany | 23th-26th June, 2025
 
 ### Call for Papers
 
-### 6th ACNS Workshop on Security in Machine Learning and its Applications (SiMLA 2024)
+### 7th ACNS Workshop on Security in Machine Learning and its Applications (SiMLA 2025)
 
-### Co-located with ACNS 2024: 22nd International Conference on Applied Cryptography and Network Security 
+### Co-located with ACNS 2025: 23rd International Conference on Applied Cryptography and Network Security 
  
 ---
 
 ## IMPORTANT DATES
 
-~~**Paper submission deadline**: December 10, 2023 (Anywhere on Earth)[Extended]~~   
-~~**Acceptance Notification**: January 10, 2024~~   
-~~**Camera-ready deadline**: January 20, 2024  (Anywhere on Earth)~~   
-**SiMLA Conference**: March 7, 2024 (14:00 - 17:30 Gulf Standard Time (GMT+4))
+**Paper submission deadline**: March 23, 2025 (Anywhere on Earth)
+**Acceptance Notification**: April 23, 2025  
+**Camera-ready deadline**: May 1, 2025 (Anywhere on Earch)
+**SiMLA Conference**: June 26, 2025 (9:00 - 12:30 CET (GMT+1))
 
 ## AIMS AND SCOPE
 
-As the development of computing hardware, algorithms, and more importantly, the availability of a large volume of data grows, machine learning technologies have become increasingly popular. Practical systems have been deployed in various domains, like face recognition, automatic video monitoring, and even auxiliary driving. However, the security implications of machine learning algorithms and systems are still unclear. For example, developers still lack a deep understanding of adversarial machine learning, one of the unique vulnerabilities of machine learning systems, and are unable to evaluate the robustness of those machine learning algorithms effectively. The other prominent problem is privacy concerns when applying machine learning algorithms, and as the general public is becoming more concerned about their privacy, more works are definitely desired towards privacy-preserving machine learning systems.
+As the development of computing hardware, algorithms, and the availability of a large volume of data grows, machine learning technologies have become increasingly popular. Practical systems have been deployed in various domains, including face recognition, automatic video monitoring, and even auxiliary driving. However, the security implications of machine learning algorithms and systems are still unclear. For example, developers still lack a deep understanding of adversarial machine learning, one of the unique vulnerabilities of machine learning systems, and are unable to evaluate the robustness of those machine learning algorithms effectively. The other prominent problem is privacy concerns when applying machine learning algorithms, and as the general public is becoming more concerned about their privacy, more works are definitely desired towards privacy-preserving machine learning systems.
 
-Motivated by this situation, this workshop solicits original contributions on the security and privacy problems of machine learning algorithms and systems, including adversarial learning, algorithm robustness analysis, privacy-preserving machine learning, etc. We hope this workshop can bring researchers together to exchange ideas on cutting-edge technologies and brainstorm solutions for urgent problems derived from practical applications.
+Motivated by this situation, this workshop solicits original contributions on the security and privacy problems of machine learning algorithms and systems, including adversarial learning, algorithm robustness analysis, privacy-preserving machine learning, etc. This workshop will bring researchers together to exchange ideas on cutting-edge technologies and brainstorm solutions for urgent problems derived from practical applications.
 
 ## TOPICS
 
@@ -60,66 +60,39 @@ EasyChair System will be used for paper submission.
 
 ## Submission Link
 
-~~Please submit your paper via Easychair: [Easychair Submission Link](https://easychair.org/conferences/?conf=simla2024)~~
+Please submit your paper via Easychair: [Easychair Submission Link](https://easychair.org/conferences/?conf=simla2025)
 
 
 ## BEST PAPER AWARD
 
-Each workshop affiliated with ACNS 2024 (ADSC, AIBlock, AIHWS, AIoTS, CIMSS, Cloud S&P, SCI, SecMT, SiMLA and S&P-FL) will nominate the **best paper** candidates. Best workshop papers will be selected and awarded with **500 EUR prize** sponsored by Springer. The list of previous best workshop papers is available [here](http://jianying.space/acns/acns-workshops.html) 
-
-
-## STUDENT TRAVEL GRANT
-
-ACNS 2024 offers **travel grants for students** to encourage participation and submission of their papers. For more details check [ACNS'24 Student Travel Grants website](https://wp.nyu.edu/acns2024/student-travel-grants/).
+Each workshop affiliated with ACNS 2025 (ADSC, AIBlock, AIHWS, AIoTS, CIMSS, Cloud S&P, SCI, SecMT, SiMLA and S&P-FL) will nominate the **best paper** candidates. Best workshop papers will be selected and awarded with **500 EUR prize** sponsored by Springer. The list of previous best workshop papers is available [here](http://jianying.space/acns/acns-workshops.html) 
 
 
 ## INVITED SPEAKERS
 
-Keynote by [Prof. Yang Zhang](https://yangzhangalmo.github.io/), Faculty (full professor) at [CISPA Helmholtz Center for Information Security](https://cispa.de/en) and a member of [ELLIS - the European Laboratory for Learning and Intelligent Systems](https://ellis.eu/).
-
-~~There will be 1-2 invited keynote speakers in the workshop.~~
+There will be 1-2 invited keynote speakers in the workshop.
 
 
 ## WORKSHOP ORGANIZERS 
 
 | Name | Institution | Chair |
 | :--- | :---------- | :---- |
-| [Ezekiel Soremekun](https://ezekiel-soremekun.github.io/) | Royal Holloway, University of London | Workshop Chair | 
-| [Badr Souani](https://wwwen.uni.lu/recherche/fstm/dcs/members/badr_souani) | SnT, University of Luxembourg | Web Chair |
-| [Salijona Dyrmishi](https://www.uni.lu/en/person/NTAwMzU4NDhfX1NhbGlqb25hIERZUk1JU0hJ/) | SnT, University of Luxembourg | Publicity Chair |
+| [Yangguang Tian](https://www.surrey.ac.uk/people/yangguang-tian) | University of Surrey | Workshop Chair | 
+| [Ye Dong](https://ye-d.github.io/) | Siingapore University of Technology and Design | Workshop Co-Chair |
 
 ## PROGRAM COMMITTEE
 
-| Name | Institution | 
-| :--- | :---------- |
-| [Ahmed Rezine](https://rezahmed.github.io/) | Linköping University | 
-| [Alexandre Bartel](https://www.abartel.net/) | Umeå University |  
-| [Amin Aminifar](https://scholar.google.com/citations?user=eEG0x3cAAAAJ&hl=en) | Heidelberg University | 
-| [Christopher M. Poskitt](https://cposkitt.github.io/) | Singapore Management University | 
-| [Jingyi Wang](https://wang-jingyi.github.io/) | Zhejiang University | 
-| [Salah Ghamizi](http://www.sghamizi.com) | SnT, University of Luxembourg |
-| [Salijona Dyrmishi](https://www.uni.lu/en/person/NTAwMzU4NDhfX1NhbGlqb25hIERZUk1JU0hJ/) | University of Luxembourg | 
-| [Sudipta Chattopadhyay](https://sudiptac.bitbucket.io/) | Singapore University of Technology and Design |
-| [Thibault Simonetto](https://www.uni.lu/en/person/NTAwMTkwMDlfX1RoaWJhdWx0IEplYW4gQW5nZWwgU0lNT05FVFRP/) | SnT, University of Luxembourg |
+TBA...
 
 
 ## WORKSHOP REGISTRATION
 
-Please [Register Here](https://wp.nyu.edu/acns2024/registration/).
+Please [Register Here](http://acns2025.fordaysec.de/registration/).
 
 
 ## PROGRAM
 
-| Time Table : Thursday 7th March, 2024 (Hybrid: Physical ([Room 2](https://wp.nyu.edu/acns2024/venue/)) + Virtual ([Zoom](https://nyu.zoom.us/j/93447631476))) |
-| :------------- |
-
-| GST (GMT+4) | UTC | Agenda |  Chair | Details|
-| :--- | :---------- | :---------- | :---------- | :---------- |
-| 14:00	| 10:00	| Opening	| [Salijona Dyrmishi](https://www.uni.lu/en/person/NTAwMzU4NDhfX1NhbGlqb25hIERZUk1JU0hJ/)	|	|
-| 14:15	| 10:15	| Invited Talk	| [Ezekiel Soremekun](https://ezekiel-soremekun.github.io/)|	Speaker Name: [Prof. Yang Zhang](https://yangzhangalmo.github.io/) <br> <br> Affiliation: [CISPA Helmholtz Center for Information Security](https://cispa.de/en)  <br> <br> Title: "Attacking Machine Learning Models" |
-| 15:15 | 11:15	| Break	|	|	|
-| 15:45	| 11:45	|	Paper (30 min each) | [Salijona Dyrmishi](https://www.uni.lu/en/person/NTAwMzU4NDhfX1NhbGlqb25hIERZUk1JU0hJ/) |  (1) Alessandro Brighente, Mauro Conti, Sitora Salaeva and Federico Turin. One Class to Test Them All: One-Class Classifier-Based ADS-B Location Spoofing Detection <br> <br>  (2) Kota Yoshida and Takeshi Fujino. Model Extraction Attack without Natural Images <br> <br>  (3) Ruilin Wang and Chuadhry Mujeeb Ahmed. Differential Privacy with Selected Privacy Budget ε in a Cyber Physical System Using Machine Learning <br> <br> (4) Amirhossein Ebrahimi, Buvana Ganesh and Paolo Palmieri. Privacy-Preserving Sentiment Analysis using Homomorphic Encryption and Attention Mechanisms |
-| 17:45  | 12:45	| Closing  	| [Ezekiel Soremekun](https://ezekiel-soremekun.github.io/) |	|
+TBA...
 
 
 
