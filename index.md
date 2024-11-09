@@ -12,10 +12,10 @@
 
 ## IMPORTANT DATES
 
-**Paper submission deadline**: March 23, 2025 (Anywhere on Earth)
-**Acceptance Notification**: April 23, 2025  
-**Camera-ready deadline**: May 1, 2025 (Anywhere on Earch)
-**SiMLA Conference**: June 26, 2025 (9:00 - 12:30 CET (GMT+1))
+**Paper submission deadline**: March 23, 2025 (Anywhere on Earth)   
+**Acceptance Notification**: April 23, 2025   
+**Camera-ready deadline**: May 1, 2025 (Anywhere on Earch)   
+**SiMLA Conference**: June 26, 2025 (9:00 - 12:30 CET (GMT+1))   
 
 ## AIMS AND SCOPE
 
@@ -78,7 +78,7 @@ There will be 1-2 invited keynote speakers in the workshop.
 | Name | Institution | Chair |
 | :--- | :---------- | :---- |
 | [Yangguang Tian](https://www.surrey.ac.uk/people/yangguang-tian) | University of Surrey | Workshop Chair | 
-| [Ye Dong](https://ye-d.github.io/) | Siingapore University of Technology and Design | Workshop Co-Chair |
+| [Ye Dong](https://ye-d.github.io/) | Singapore University of Technology and Design | Workshop Co-Chair |
 
 ## PROGRAM COMMITTEE
 
@@ -98,4 +98,4 @@ TBA...
 
 ## CONTACT INFORMATION
 
-For more information, please contact the organizer [Ezekiel Soremekun](mailto:ezekiel.soremekun@rhul.ac.uk)
+For more information, please contact the organizer [simlaworkshop2025@gmail.com](mailto:simlaworkshop2025@gmail.com)
