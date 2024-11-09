@@ -1,6 +1,6 @@
-title: Security in Machine Learning and its Applications (SiMLA 2024)
+title: Security in Machine Learning and its Applications (SiMLA 2025)
 url: ""
-baseur1: "/Simla2024"
+baseur1: "/Simla2025"
 
 markdown: GFM
 # ins_logo: "images/simla-logo.png"
@@ -8,14 +8,14 @@ markdown: GFM
 tracking_id: #
 
 footer: yes
-footer_url: "https://wp.nyu.edu/acns2024/"
-footer_text: "SiMLA 2024 (Co-located with ACNS2024)"
+footer_url: "https://wp.nyu.edu/acns2025/"
+footer_text: "SiMLA 2025 (Co-located with ACNS2025)"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "ACNS 2024"
-   link: "https://wp.nyu.edu/acns2024/"
+ - name: "ACNS 2025"
+   link: "https://wp.nyu.edu/acns2025/"
 
