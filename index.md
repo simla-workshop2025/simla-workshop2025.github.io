@@ -60,8 +60,7 @@ EasyChair System will be used for paper submission.
 
 ## Submission Link
 
-Please submit your paper via Easychair: [Easychair Submission Link](https://easychair.org/conferences/?conf=simla2025)
-
+Will open soon...
 
 ## BEST PAPER AWARD
 
@@ -77,7 +76,7 @@ There will be 1-2 invited keynote speakers in the workshop.
 
 | Name | Institution | Chair |
 | :--- | :---------- | :---- |
-| [Yangguang Tian](https://www.surrey.ac.uk/people/yangguang-tian) | University of Surrey | Workshop Chair | 
+| [Yangguang Tian](https://www.surrey.ac.uk/people/yangguang-tian) | | Workshop Chair | 
 | [Ye Dong](https://ye-d.github.io/) | Singapore University of Technology and Design | Workshop Co-Chair |
 
 ## PROGRAM COMMITTEE
