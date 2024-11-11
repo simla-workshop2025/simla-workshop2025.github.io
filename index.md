@@ -60,11 +60,11 @@ EasyChair System will be used for paper submission.
 
 ## Submission Link
 
-Will open soon...
+Please submit your paper via Easychair: [Easychair Submission Link](https://easychair.org/conferences/?conf=simla2025)
 
 ## BEST PAPER AWARD
 
-Each workshop affiliated with ACNS 2025 (ADSC, AIBlock, AIHWS, AIoTS, CIMSS, Cloud S&P, SCI, SecMT, SiMLA and S&P-FL) will nominate the **best paper** candidates. Best workshop papers will be selected and awarded with **500 EUR prize** sponsored by Springer. The list of previous best workshop papers is available [here](http://jianying.space/acns/acns-workshops.html) 
+Each workshop affiliated with ACNS 2025 will nominate the **best paper** candidates. Best workshop papers will be selected and awarded with **500 EUR prize** sponsored by Springer. The list of previous best workshop papers is available [here](http://jianying.space/acns/acns-workshops.html) 
 
 
 ## INVITED SPEAKERS
