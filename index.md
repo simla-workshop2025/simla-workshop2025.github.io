@@ -12,15 +12,15 @@
 
 ## IMPORTANT DATES
 
-### Second submission deadline:
-**Paper submission deadline**: January 15, 2025, 23:59 AoE (Anywhere on Earth)   
-**Acceptance Notification**: Feburary 25, 2025   
-**Camera-ready deadline**: March 5, 2025
+### First submission deadline:
+   **Paper submission deadline**: January 15, 2025, 23:59 AoE (Anywhere on Earth)   
+   **Acceptance Notification**: Feburary 25, 2025   
+   **Camera-ready deadline**: March 5, 2025
 
 ### Second submission deadline:
-**Paper submission deadline**: March 23, 2025 23:59 AoE (Anywhere on Earth)    
-**Acceptance Notification**: April 23, 2025   
-**Camera-ready deadline**: May 1, 2025 (firm deadline)
+   **Paper submission deadline**: March 23, 2025 23:59 AoE (Anywhere on Earth)    
+   **Acceptance Notification**: April 23, 2025   
+   **Camera-ready deadline**: May 1, 2025 (firm deadline)
 
 **SiMLA Conference**: June 26, 2025 (9:00 - 12:30 CET (GMT+1))   
 
