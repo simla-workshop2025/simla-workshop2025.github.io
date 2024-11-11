@@ -12,17 +12,23 @@
 
 ## IMPORTANT DATES
 
-### First submission deadline:
-   **Paper submission deadline**: January 15, 2025, 23:59 AoE (Anywhere on Earth)   
-   **Acceptance Notification**: Feburary 25, 2025   
-   **Camera-ready deadline**: March 5, 2025
+### First Submission Deadline:
+- **Submission**: *January 15, 2025*, 23:59 AoE (Anywhere on Earth)  
+- **Notification**: *February 25, 2025*  
+- **Camera-ready**: *March 5, 2025*
 
-### Second submission deadline:
-   **Paper submission deadline**: March 23, 2025 23:59 AoE (Anywhere on Earth)    
-   **Acceptance Notification**: April 23, 2025   
-   **Camera-ready deadline**: May 1, 2025 (firm deadline)
+---
 
-**SiMLA Conference**: June 26, 2025 (9:00 - 12:30 CET (GMT+1))   
+### Second Submission Deadline:
+- **Submission**: *March 23, 2025*, 23:59 AoE (Anywhere on Earth)  
+- **Notification**: *April 23, 2025*  
+- **Camera-ready**: *May 1, 2025* (firm deadline)
+
+---
+
+### **SiMLA Conference**  
+- **Date**: *June 26, 2025*  
+- **Time**: 9:00 - 12:30 CET (GMT+1)
 
 ## AIMS AND SCOPE
 
@@ -62,12 +68,15 @@ Authors are welcome to submit their papers in the following two forms:
 
 - **Special Note to Springer LNCS Proceedings**: Authors should consult Springer's authors' guidelines and use their proceedings templates, either for LaTeX or for Word, for the preparation of their papers. Springer encourages authors to include their ORCIDs in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form, through which the copyright for their paper is transferred to Springer. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
 
-EasyChair System will be used for paper submission.
-
 
 ## Submission Link
 
-Please submit your paper via Easychair: [Easychair Submission Link](https://easychair.org/conferences/?conf=simla2025)
+### First Submission *(Opens on November 30, 2024)*
+- **Submit your paper** via EasyChair: [Paper Submission](https://easychair.org/conferences/?conf=simla2025)
+
+---
+
+### Second Submission *(Dates TBA...)*
 
 ## BEST PAPER AWARD
 
