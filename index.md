@@ -71,7 +71,7 @@ Authors are welcome to submit their papers in the following two forms:
 
 ## Submission Link
 
-### First Submission *(Opens on November 30, 2024)*
+### First Submission *(Opened!)*
 - **Submit your paper** via EasyChair: [Paper Submission](https://easychair.org/conferences/?conf=simla2025)
 
 ---
