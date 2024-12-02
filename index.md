@@ -107,6 +107,7 @@ There will be 1-2 invited keynote speakers in the workshop.
 | [Yuantian Miao](https://www.newcastle.edu.au/profile/sky-miao) | The University of Newcastle |
 | [Ming Xu](https://ming-xu-research.github.io/) | National University of Singapore |
 | [Yu Zheng](https://yuzhengcuhk.github.io/) | University of California, Irvine |
+| [Yaxi Yang](https://itrust.sutd.edu.sg/people/researchers/yang-yaxi/) | Singapore University of Technology and Design |
 | [Qifan Zhang](https://qifanz.com/) | University of California, Irvine |
 | [Chengyang Zhao](https://zhaochenyang20.github.io/Chayenne/index.html) | University of California, Los Angeles |
 | [Xuesong Bai](https://www.xuesongbai.com/) | University of California, Irvine |
