@@ -12,9 +12,9 @@
 
 ## IMPORTANT DATES
 
-### First Submission Deadline:
-- **Submission**: *January 15, 2025*, 23:59 AoE (Anywhere on Earth)  
-- **Notification**: *February 25, 2025*  
+### ~~First Submission Deadline:~~
+- ~~**Submission**: *January 15, 2025*, 23:59 AoE (Anywhere on Earth)~~
+- ~~**Notification**: *February 25, 2025*~~  
 - **Camera-ready**: *May 1, 2025*
 
 ---
