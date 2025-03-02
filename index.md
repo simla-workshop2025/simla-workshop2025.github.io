@@ -15,7 +15,7 @@
 ### First Submission Deadline:
 - **Submission**: *January 15, 2025*, 23:59 AoE (Anywhere on Earth)  
 - **Notification**: *February 25, 2025*  
-- **Camera-ready**: *March 5, 2025*
+- **Camera-ready**: *May 1, 2025*
 
 ---
 
@@ -71,12 +71,13 @@ Authors are welcome to submit their papers in the following two forms:
 
 ## Submission Link
 
-### First Submission *(Opened!)*
-- **Submit your paper** via EasyChair: [Paper Submission](https://easychair.org/conferences/?conf=simla2025)
+### ~~First Submission *(Closed!)~~
+- ~~**Submit your paper** via EasyChair: [SiMLA2025-Round-1](https://easychair.org/conferences/?conf=simla2025)~~
 
 ---
 
-### Second Submission *(Dates TBA...)*
+### Second Submission *(Opened!)*
+- **Submit your paper** via EasyChair: [SiMLA2025 Round-2](https://easychair.org/conferences/?conf=simla2025)
 
 ## BEST PAPER AWARD
 
@@ -112,9 +113,9 @@ There will be 1-2 invited keynote speakers in the workshop.
 | [Chengyang Zhao](https://zhaochenyang20.github.io/Chayenne/index.html) | University of California, Los Angeles |
 | [Xuesong Bai](https://www.xuesongbai.com/) | University of California, Irvine |
 
-## WORKSHOP REGISTRATION
+## WORKSHOP REGISTRATION & VISA Letter
 
-Please [Register Here](http://acns2025.fordaysec.de/registration/).
+Please refer to ACNS2025 Register [Here](http://acns2025.fordaysec.de/registration/).
 
 
 ## PROGRAM
