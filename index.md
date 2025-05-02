@@ -15,14 +15,14 @@
 ### ~~First Submission Deadline:~~
 - ~~**Submission**: *January 15, 2025*, 23:59 AoE (Anywhere on Earth)~~
 - ~~**Notification**: *February 25, 2025*~~  
-- **Camera-ready**: *May 1, 2025*
+- ~~**Camera-ready**: *May 1, 2025*~~
 
 ---
 
-### Second Submission Deadline:
-- **Submission**: *March 23, 2025*, 23:59 AoE (Anywhere on Earth)  
-- **Notification**: *April 23, 2025*  
-- **Camera-ready**: *May 1, 2025* (firm deadline)
+### ~~Second Submission Deadline:~~
+- ~~**Submission**: *March 23, 2025*, 23:59 AoE (Anywhere on Earth)~~
+- ~~**Notification**: *April 23, 2025*~~
+- ~~**Camera-ready**: *May 1, 2025* (firm deadline)~~
 
 ---
 
@@ -76,8 +76,8 @@ Authors are welcome to submit their papers in the following two forms:
 
 ---
 
-### Second Submission *(Opened!)*
-- **Submit your paper** via EasyChair: [SiMLA2025 Round-2](https://easychair.org/conferences/?conf=simla2025)
+### ~~Second Submission *(Closed!)*~~
+- ~~**Submit your paper** via EasyChair: [SiMLA2025 Round-2](https://easychair.org/conferences/?conf=simla2025)~~
 
 ## BEST PAPER AWARD
 
@@ -112,11 +112,26 @@ There will be 1-2 invited keynote speakers in the workshop.
 | [Qifan Zhang](https://qifanz.com/) | University of California, Irvine |
 | [Chengyang Zhao](https://zhaochenyang20.github.io/Chayenne/index.html) | University of California, Los Angeles |
 | [Xuesong Bai](https://www.xuesongbai.com/) | University of California, Irvine |
+| [Qiafan Wang](https://research.birmingham.ac.uk/en/persons/qifan-wang) | University of Birmingham |
+| [Qian Chen](https://kqkq926.github.io/) | Xidian University |
+| [Chenang Li](https://lcatarjam.github.io/) | University of California, Irvine |
+| [Fengzhao Shi](https://scholar.google.com/citations?user=pbh2EnkAAAAJ&hl=en&oi=ao) | SANGFOR Technologies Co., Ltd. |
+| [Ziyao Liu](https://scholar.google.com/citations?hl=en&user=66s37wIAAAAJ&view_op=list_works&sortby=pubdate) | Nanyang Technological University |
 
 ## WORKSHOP REGISTRATION & VISA Letter
 
 Please refer to ACNS2025 Register [Here](http://acns2025.fordaysec.de/registration/).
 
+## Accepted Papers
+
+1. Inoussa Mouiche and Sherif Saad. TIRE: Advancing Threat Intelligence Relation Extraction with a Novel Data-Centric Framework
+2. Sanjana Nambiar and Christina Pöpper. JailFact-Bench: A Comprehensive Analysis of Jaibreak Attacks vs. Hallucinations in LLMs
+3. Xiyan Shao and Yuke Liu. LLMacaroon: Re-architecting Secure LLM Applications with Macaroons
+4. Felix Maurer, Jonas Sander and Thomas Eisenbarth. ReDASH: Fast and efficient Scaling in Arithmetic Garbled Circuits for Secure Outsourced Inference
+5. Lars Malmqvist. Winning at All Cost: A Small Environment for Eliciting Specification Gaming Behaviors in Large Language Models
+6. Elnaz Rabieinejad, Ali Dehghantanha, Fattane Zarrinkalam and Jeff Schwartzentruber. United We Log, Divided We Identify: A Decentralized Approach for Automated Log Analysis
+7. Rina Mishra and Gaurav Varshney. A Study of Effectiveness of Brand Domain Identification Features for Phishing Detection in 2025
+8. Bram van Dartel, Marc Damie and Florian Hahn. Evaluating Membership Inference Attacks in heterogeneous-data setups
 
 ## PROGRAM
 
