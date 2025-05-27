@@ -143,7 +143,7 @@ Please refer to ACNS2025 Register [Here](http://acns2025.fordaysec.de/registrati
 ## PROGRAM
 
 | Time | Title |
-| :--- | :---------- |
+| :----- | :---------- |
 | 9:30--9:40 | Opening |
 | 9:40--10:15 | Invited Talk: Taming Malicious Majorities in Federated Learning using Privacy-preserving Byzantine-robust Clustering |
 | 10:15--10:30 | Inoussa Mouiche and Sherif Saad, TIRE: Advancing Threat Intelligence Relation Extraction with a Novel Data-Centric Framework |
