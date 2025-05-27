@@ -84,9 +84,16 @@ Authors are welcome to submit their papers in the following two forms:
 Each workshop affiliated with ACNS 2025 will nominate the **best paper** candidates. Best workshop papers will be selected and awarded with **500 EUR prize** sponsored by Springer. The list of previous best workshop papers is available [here](http://jianying.space/acns/acns-workshops.html) 
 
 
-## INVITED SPEAKERS
+## **Invited Talk**
 
-There will be 1-2 invited keynote speakers in the workshop.
+**Invited Speaker: [Dr. Rui Wang](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/cybersecurity/people/rui-wang)**  
+*Rui Wang received his BSc degree from Beijing University of Posts and Telecommunications in 2017 and his MSc degree from the University of Southampton in 2018. He completed his PhD at Delft University of Technology in 2024, where he is currently a postdoctoral researcher. His research interests include privacy and security challenges in federated learning.*  
+
+**Title: Taming Malicious Majorities in Federated Learning using Privacy-preserving Byzantine-robust Clustering**
+
+**Abstract:** Byzantine-robust Federated Learning (FL) aims to counter malicious clients and train an accurate global model while maintaining an extremely low attack success rate. Most existing systems, however, are only robust when the majority of clients are honest. Some approaches avoid this honest majority assumption but require the server to have access to an auxiliary dataset for filtering malicious updates. Others rely on the semi-honest majority assumption to ensure robustness and confidentiality of updates. As a result, achieving Byzantine robustness and confidentiality of updates without assuming a semi-honest majority remains a challenge.  
+
+This talk introduces a novel Byzantine-robust and privacy-preserving FL system capable of addressing malicious minorities and majorities on both the server and client sides. The proposed system ensures robustness and confidentiality, paving the way for more secure and reliable federated learning environments.
 
 
 ## WORKSHOP ORGANIZERS 
@@ -135,7 +142,20 @@ Please refer to ACNS2025 Register [Here](http://acns2025.fordaysec.de/registrati
 
 ## PROGRAM
 
-TBA...
+| Time | Title |
+| :--- | :---------- |
+| 9:30--9:40 | Opening |
+| 9:40--10:15 | Invited Talk: Taming Malicious Majorities in Federated Learning using Privacy-preserving Byzantine-robust Clustering |
+| 10:15--10:30 | Inoussa Mouiche and Sherif Saad, TIRE: Advancing Threat Intelligence Relation Extraction with a Novel Data-Centric Framework |
+| 10:30--10:40 | Felix Maurer, Jonas Sander and Thomas Eisenbarth, ReDASH: Fast and efficient Scaling in Arithmetic Garbled Circuits for Secure Outsourced Inference |
+| 10:40--11:00 | Coffee break |
+| 11:00--11:10 | Bram van Dartel, Marc Damie and Florian Hahn, Evaluating Membership Inference Attacks in heterogeneous-data setups |
+| 11:10--11:25 | Sanjana Nambiar and Christina Pöpper, JailFact-Bench: A Comprehensive Analysis of Jaibreak Attacks vs. Hallucinations in LLMs |
+| 11:25--11:40 | Xiyan Shao and Yuke Liu, LLMacaroon: Re-architecting Secure LLM Applications with Macaroons |
+| 11:40--11:55 | Lars Malmqvist, Winning at All Cost: A Small Environment for Eliciting Specification Gaming Behaviors in Large Language Models |
+| 11:55--12:10 | Elnaz Rabieinejad, Ali Dehghantanha, Fattane Zarrinkalam and Jeff Schwartzentruber, United We Log, Divided We Identify: A Decentralized Approach for Automated Log Analysis |
+| 12:10--12:25 | Rina Mishra and Gaurav Varshney, A Study of Effectiveness of Brand Domain Identification Features for Phishing Detection in 2025 |
+| 12:25--12:30 | Closing remarks |
 
 
 
