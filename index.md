@@ -87,12 +87,11 @@ Each workshop affiliated with ACNS 2025 will nominate the **best paper** candida
 ## **Invited Talk**
 
 **Invited Speaker: [Dr. Rui Wang](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/cybersecurity/people/rui-wang)**  
-*Rui Wang received his BSc degree from Beijing University of Posts and Telecommunications in 2017 and his MSc degree from the University of Southampton in 2018. He completed his PhD at Delft University of Technology in 2024, where he is currently a postdoctoral researcher. His research interests include privacy and security challenges in federated learning.*  
+*Dr. Rui Wang received his BSc degree from Beijing University of Posts and Telecommunications in 2017 and his MSc degree from the University of Southampton in 2018. He completed his PhD at Delft University of Technology in 2024, where he is currently a postdoctoral researcher. His research interests include privacy and security challenges in federated learning.*  
 
 **Title: Taming Malicious Majorities in Federated Learning using Privacy-preserving Byzantine-robust Clustering**
 
 **Abstract:** Byzantine-robust Federated Learning (FL) aims to counter malicious clients and train an accurate global model while maintaining an extremely low attack success rate. Most existing systems, however, are only robust when the majority of clients are honest. Some approaches avoid this honest majority assumption but require the server to have access to an auxiliary dataset for filtering malicious updates. Others rely on the semi-honest majority assumption to ensure robustness and confidentiality of updates. As a result, achieving Byzantine robustness and confidentiality of updates without assuming a semi-honest majority remains a challenge.  
-
 This talk introduces a novel Byzantine-robust and privacy-preserving FL system capable of addressing malicious minorities and majorities on both the server and client sides. The proposed system ensures robustness and confidentiality, paving the way for more secure and reliable federated learning environments.
 
 
